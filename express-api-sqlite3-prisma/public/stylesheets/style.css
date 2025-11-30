@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font-family: Arial;
+}
+
+li {
+  font-size: 18px;
+  font-family: 'Consolas';
+}
+
+a {
+  color: #db2777;
+}

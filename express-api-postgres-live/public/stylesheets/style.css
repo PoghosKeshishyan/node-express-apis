@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font-family: Arial;
+}
+
+li {
+  font-size: 18px;
+  font-family: 'Consolas';
+  border-bottom: 1px solid #ddd;
+  margin: 3px 0;
+  padding-bottom: 3px;
+  width: 350px;
+}
+
+li span {
+  width: 80px;
+  display: inline-block;
+}
+
+a {
+  color: #db2777;
+}
